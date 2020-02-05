@@ -1,3 +1,3 @@
 prima riga del file
 fileseminario.txt
-
+ho modificato il file in testing
